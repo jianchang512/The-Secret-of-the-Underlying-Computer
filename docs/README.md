@@ -1,6 +1,6 @@
 ---
 
-fork 自 https://github.com/webxiaohua/gitbook，原作者 小风，原作者公众号“码农的荒岛求生”"
+fork 自 https://github.com/webxiaohua/gitbook 原作者 小风，原作者公众号“码农的荒岛求生”"
 
 ---
 

@@ -5,6 +5,9 @@ export default defineConfig({
   title: "计算机底层的秘密",
   description: "计算机底层的秘密",
   themeConfig: {
+	search: {
+      provider: 'local'
+	  },
     logo:"/logo.jpg",
     // https://vitepress.dev/reference/default-theme-config
     nav: [

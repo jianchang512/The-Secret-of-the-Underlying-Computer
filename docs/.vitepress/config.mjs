@@ -10,7 +10,7 @@ export default defineConfig({
     nav: [
       { text: '首页', link: '/' },
       { text: '开始阅读', link: '/SUMMARY.md' },
-	  {text:"On Java8",link:'https://onjava8.wonyes.org'},
+	  {text:"On Java8(Java编程思想)",link:'https://onjava8.wonyes.org'},
 	  {text:"原创画作",link:'https://www.wonyes.org'}
     ],
 

@@ -9,7 +9,8 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: '首页', link: '/' },
-      { text: '阅读', link: '/SUMMARY.md' },
+      { text: '开始阅读', link: '/SUMMARY.md' },
+	  {text:"On Java8",link:'https://onjava8.wonyes.org'},
 	  {text:"原创画作",link:'https://www.wonyes.org'}
     ],
 
